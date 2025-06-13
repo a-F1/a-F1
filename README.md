@@ -6,6 +6,6 @@
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GLtCYtgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chongyu.fan93@gmail.com)
 
-I am a second-year PhD student in Computer Science at Michigan State University advised by Prof.Sijia Liu. My research focuses on trustworthy and scalable machine learning algorithms, including areas such as machine unlearning. 
+I am a second-year PhD student in Computer Science at Michigan State University advised by Prof.Sijia Liu. My research focuses on trustworthy and efficient algorthms, including machine unlearning and efficient reasoning.
 
 Visit my homepage for more information. Feel free to reach out to me via email for collaboration!
